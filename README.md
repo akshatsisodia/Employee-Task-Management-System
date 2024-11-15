@@ -1,3 +1,6 @@
+Employee Management System
+
+
 An Employee Management System where an admin can manage employee tasks and monitor their progress. The admin has the authority to assign tasks, and employees can view their assigned tasks and update progress through a user-friendly dashboard. The system includes secure login functionality for both admin and employee roles.
 
 Features:-
